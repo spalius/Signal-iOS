@@ -1,3 +1,7 @@
+# The point of the fork
+The point of the fork is to preserve a version of Signal, in case it was to have backdoors installed in it. This is relevant for EU citizens, see https://european-pirateparty.eu/parliament-approves-chatcontrol/
+
+
 # Signal iOS
 
 Signal is a free, open source, messaging app for simple private communication with friends. 
